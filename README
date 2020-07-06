@@ -1,0 +1,10 @@
+# Caso Predador Presa en Python
+### Ejecucion
+`python predator.py`
+
+Al ejecutar este script se devolveran 3 imagens con
+- Grafico de comportamiento
+- Grafico de fase
+- Grafico de equilibrio
+Este script contiene 3 casos de predador presa.
+Las imagenes seran guardadas en la raiz del proyecto.

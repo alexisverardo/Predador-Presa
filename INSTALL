@@ -1,0 +1,10 @@
+# Caso Predador Presa en Python
+# Instalacion
+
+### Prerequisitos
+- Pyhon.
+- Matplotlib
+- sccipy
+
+### Ejecucion
+`python predator.py`

@@ -1,0 +1,21 @@
+# Caso Predador Presa en Python
+
+## Definicion de funciones y explicacion de codigo
+
+ Funcion **df_dt**
+ Definicion de la ecuacion en forma canonica
+
+Funcion **getSolucion** (entrada -> parametros iniciales)
+Resuelve la ecuación y returna los resultados en función del tiempo.
+
+Funcion **getDiagramaDeComportamiento**  (entrada -> parametros iniciales y nombre de la imagen que se va a generar)
+Genera la imagen del diagrama de compartmiento de la funcion resuelta.
+
+Funcion **getDiagramaDeFases**
+(entrada -> parametros iniciales y nombre de la imagen que se va a generar)
+Genera la imagen del diagrama de fases de la funcion resuelta
+
+Funcion **getDiagramaDeFases**
+(entrada -> parametros iniciales y nombre de la imagen que se va a generar)
+Resuelve el punto de Equilibrio.
+Genera la imagen del diagrama de punto de equilibrio de la funcion resuelta
